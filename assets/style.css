@@ -1,0 +1,231 @@
+body {
+    font-family: "Lato", sans-serif;
+    margin: 0;
+    background-color: #F7F7F7;
+}
+.img-top {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100px;
+    height: 100px;
+}
+.header {
+    background-color: #222222;
+    height: 288px;
+    padding: 20px 0 0 0;
+}
+
+.header-emoji {
+    font-size: 48px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.header-title {
+    color: #FFFFFF;
+    font-size: 48px;
+    font-weight: bold;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.header-description {
+    color: #CFCFCF;
+    margin: 4px auto;
+    text-align: center;
+    max-width: 384px;
+}
+
+.wrapper {
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 1024px;
+    margin-top: 32px;
+}
+
+.card {
+    margin-bottom: 24px;
+    box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.18);
+}
+.radio {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    height: 56px;
+    width: 1024px;
+    padding-top: 24px;
+    margin: auto;
+    background-color: #FFFFFF;
+    box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.18);
+}
+.menu {
+    height: 112px;
+    width: 912px;
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 24px;
+    margin: -80px auto 0 auto;
+    background-color: #FFFFFF;
+    box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.18);
+}
+
+.Select-control {
+    width: 256px;
+    height: 48px;
+}
+
+.Select--single > .Select-control .Select-value, .Select-placeholder {
+    line-height: 48px;
+}
+
+.Select--multi .Select-value-label {
+    line-height: 32px;
+}
+
+.menu-title {
+    margin-bottom: 6px;
+    font-weight: bold;
+    color: #17B897 ;
+}
+/*#079A82*/
+
+.card2 {
+    margin-bottom: 0px;
+    box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.18);
+}
+
+.wrapper1 {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.18);
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 1024px;
+    margin-top: -25px;
+    background-color: white;
+}
+
+.pie {
+    padding-left: 50px;
+
+}
+
+.card_wrapper {
+    box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.18);
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 1024px;
+    padding-right: 10px;
+    padding-left: 10px;
+    margin-top: 32px;
+}
+
+.footer{
+    margin-top: 42px;
+    box-sizing: border-box;
+    background-color: #222222;
+    height: 100px;
+
+}
+
+.footer_p {
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+    font-size: 12px;
+
+    color: #CFCFCF;
+}
+
+.footer_p1 {
+    margin: 0;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 12px;
+    color: #CFCFCF;
+}
+
+.footer_p2 {
+    margin-bottom: 0;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 10px;
+    color: #CFCFCF;
+    opacity: 40%;
+}
+.pshki {
+   padding-left: 20px;
+}
+.wrapper3 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-right: auto;
+    margin-left: auto;
+    padding-top: 25px;
+    max-width: 1024px;
+
+
+}
+
+.footer_image_container{
+
+width: 150px;
+padding-right: 20px;
+
+}
+
+.dash_img {
+
+    height: 50px;
+}
+
+.menu2 {
+    margin-top: 52px;
+    height: 92px;
+    max-width: 1024px;
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 24px;
+    background-color: #ffffff;
+    box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.18);
+    margin-bottom: -30px;
+    padding-bottom: 5px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.p_busy {
+    font-family: "Lato", sans-serif;
+    border: #222222 solid 2px;
+
+    margin-bottom: 50px;
+    padding: 5px;
+
+
+}
+#p_date_busy {
+    font-family: "Lato", sans-serif;
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+    margin-left: 2px;
+
+}
+.p_afb {
+    margin-right: 64px;
+    margin-bottom: -15px;
+}
+.p_afb_text {
+    font-family: "Lato", sans-serif;
+    border: #222222 solid 1px;
+    padding: 2px;
+}
+
+.busy_block {
+    max-width: 900px;
+}
