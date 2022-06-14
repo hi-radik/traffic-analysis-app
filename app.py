@@ -11,7 +11,6 @@ import geopandas as gpd
 import plotly.graph_objects as go
 #Импор файла с запросами
 import queries
-
 #Подключение css
 external_stylesheets = [
     {
@@ -22,7 +21,7 @@ external_stylesheets = [
     {
         "href":"https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css",
         "rel":"stylesheet"
-    },
+    }
 ]
 
 #Создание  Dash приложения
@@ -38,14 +37,14 @@ app.layout = html.Div(
                 html.Div(
 
                 #Лого линейной диаграммы
-                children = html.Img(src='assets/bar1.png',className='img-top')),#, className = "animate__animated animate__pulse animate__slow animate__infinite infinite"),
+                children = html.Img(src='assets/bar1.png',className='img-top'), className = "animate__animated animate__pulse animate__slow animate__infinite infinite"),
                 #Основной заголовок
                 html.H1(
                     children="Аналитика трафика", className="header-title"
                 ),
                 #Параграф под заголовком
                 html.P(
-                    children="Анализ динамики летной активности в 2021 году",
+                    children="Анализ динамики летной активности в 2022 году",
                     className="header-description",
                 ),
             ],
@@ -62,12 +61,12 @@ app.layout = html.Div(
                         html.Div(children="Авиабаза", className="menu-title"),
                         dcc.Dropdown(
                             id="afb-filter",
-                            options=[
+                            options = [
                                 #Значения для выпадающего списка авиабаз берем из уникальных значений авиабаз таблицы
                                 {"label": afb, "value": afb}
                                 for afb in np.sort(queries.diagram_data.afb.unique())
                             ],
-                            value="BIKF",
+                            value='LTAG',
                             clearable=False,
                             className="dropdown",
                 ),
@@ -166,11 +165,12 @@ app.layout = html.Div(
                                 #Компонент выпадающий список для выбора авиабазы
                                 dcc.Dropdown(
                                     id="afb_geo_filter",
-                                    options=[
-                                        {"label": afb, "value": afb}
-                                        for afb in np.sort(queries.diagram_data.afb.unique())
-                                    ],
-                                    value="BIKF",
+                                     options = [
+                                #Значения для выпадающего списка авиабаз берем из уникальных значений авиабаз таблицы
+                                {"label": afb, "value": afb}
+                                for afb in np.sort(queries.diagram_data.afb.unique())
+                            ],
+                            value='LTAG',
                                     clearable=False,
                                     className="dropdown",
                         ),
@@ -184,7 +184,7 @@ app.layout = html.Div(
             children=[
                 html.Div(
 
-                    #Построение scatter_geo (карты с кругами, где каждый круг - строка базе данных, описывающая авиабазу)
+                    #Построение scatter_geo (карты с кругами, где каждый круг - строка в базе данных, описывающая авиабазу)
                     children=dcc.Graph(figure=queries.scatter_fig,id='sctr_geo_chart'), className="card",)],className="wrapper"),
 
         #Пай чарт и блоки
@@ -227,7 +227,7 @@ app.layout = html.Div(
                             children='Radomir Spartesnyj', className='footer_p1'
                         ),
                         html.P(
-                            children='© 2021', className='footer_p2'
+                            children='© 2022', className='footer_p2'
                         )], className = 'pshki' ),
 
                         html.Div( children = [
@@ -305,8 +305,11 @@ def update_afb_geo_filter (date):
         mask = (queries.pie_data.today == date)
         filtered_df = queries.pie_data.loc[mask,:]
 
-        return [{"label": afb, "value": afb} for afb in np.sort(filtered_df.afb.unique())
-                                    ]
+        return [
+                                #Значения для выпадающего списка авиабаз берем из уникальных значений авиабаз таблицы
+                                {"label": afb, "value": afb}
+                                for afb in np.sort(filtered_df.afb.unique())
+                            ]
 
 
 ##Изменяем дату в соответсвующем компоненте - меняется скаттер гео чарт
@@ -390,7 +393,7 @@ def update_charts(afb, start_date, end_date):
         ],
         "layout": {
             "title": {
-                "text": "График активности воздушных судов для указанной авиабазы в указанном диапазоне дат",
+                "text": "График активности воздушных судов для указанной авиабазы в выбранном диапазоне дат",
                 "x": 0.1,
                 "xanchor": "left",
             },
@@ -402,5 +405,5 @@ def update_charts(afb, start_date, end_date):
 
     return arrived_chart_figure
 
-if __name__ == '__main__':
-    app.run_server(debug=True)
+if __name__ == "__main__":
+    app.run_server(debug=False)

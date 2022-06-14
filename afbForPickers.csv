@@ -1,0 +1,346 @@
+,afbNames,afbCodes
+0,Incirlik,LTAG
+1,Altus AFB,KLTS
+2,Andersen AFB,PGUA
+3,Logistics Support Area Anaconda,OAIX
+4,Vandenberg AFB,KVBG
+5,Dyess AFB,KDYS
+6,Davis Monthan AFB,KDMA
+7,Kadena AB,RODN
+8,Keflavik International Airport,BIKF
+9,Gunsan Airport,RKJK
+10,RAF Lakenheath,EGUL
+11,Langley AFB,KLFI
+12,Bishkek Manas International Airport,UCFM
+13,RAF Mildenhall,EGUN
+14,Nellis AFB,KLSV
+15,Offutt AFB,KOFF
+16,Ramstein Air Base,ETAR
+17,Roswell International Air Center Airport,KROW
+18,Pituffik Airport,BGTL
+19,Whiteman AFB,KSZL
+20,Fairford,EGVA
+21,Edwards AFB,KEDW
+22,Anchorage Elmendorf Air Force Base,PAED
+23,Andrews Air Force Base,KADW
+24,Volk Field,KVOK
+25,Aviano,LIPA
+26,Riverside March Air Reserve Base,KRIV
+27,Fairfield Travis Air Force Base,KSUU
+28,Los Angeles Whiteman Airport,KWHP
+29,Tartu Airport,EETU
+30,Tallinn Lennart Meri Airport ,EETN
+31,Parnu Airport,EEPU
+32,Kardla Airport,EEKA
+33,Riga International Airport,EVRA
+34,Ventspils International Airport,EVVA
+35,Liepaja Airport,EVLA
+36,Vilnius International Airport,EYVI
+37,Kaunas Airport,EYKA
+38,Siauliai International Airport,EYSA
+39,Palanga International Airport,EYPA
+40,Gdansk Lech Walesa Airport,EPGD
+41,Szczecin Goleniow Airport,EPSC
+42,Bydgoszcz Ignacy Jan Paderewski Airport,EPBY
+43,Poznan Lawica Airport,EPPO
+44,Warsaw Modlin Airport,EPMO
+45,Warsaw Chopin Airport,EPWA
+46,Lodz Wladyslaw Reymont Airport,EPLL
+47,Lublin Airport,EPLB
+48,Wroclaw Copernicus Airport,EPWR
+49,Katowice International Airport,EPKT
+50,Krakow John Paul II International Airport,EPKK
+51,Rzeszow Jasionka Airport,EPRZ
+52,Kyiv Zhuliany Airport,UKKK
+53,Rivne International Airport,UKLR
+54,Kyiv Hostomel Airport,UKKM
+55,Vinnytsia Havryshivka International Airport,UKWW
+56,Izmir Adnan Menderes International Airport,LTBJ
+57,Adana Sakirpasa Airport,LTAF
+58,Tbilisi International Airport,UGTB
+59,Kyiv Boryspil International Airport,UKBB
+60,Pardubice Airport,LKPD
+61,Kabul International Airport,OAKB
+62,Basel Mulhouse-Freiburg EuroAirport,LFSB
+63,Bergen op Zoom Woensdrecht Air Base Airport,EHWO
+64,Abu Dhabi Al Dhafra Air Base,OMAM
+65,Dubai Al Minhad Air Base,OMDM
+66,Dover Air Force Base,KDOV
+67,San Antonio Lackland Air Force Base,KSKF
+68,Bost Airport,OABT
+69,Chaghcharan Airport,OACC
+70,Farah Airport,OAFR
+71,Herat International Airport,OAHR
+72,Kandahar Airport,OAKN
+73,Mazar-I-Sharif International Airport,OAMS
+74,Tarinkot Airport,OATN
+75,Zaranj Airport,OAZJ
+76,Bratislava M. R. Stefanik Airport,LZIB
+77,Kosice International Airport,LZKZ
+78,Piestany Airport,LZPP
+79,Poprad Tatry Airport,LZTT
+80,Sliac Airport,LZSL
+81,Zilina Airport,LZZI
+82,Ljubljana Joze Pucnik Airport,LJLJ
+83,Maribor Airport,LJMB
+84,Arad International Airport,LRAR
+85,Bacau International Airport,LRBC
+86,Baia Mare Airport,LRBM
+87,Brasov Airport,LROV
+88,Bucharest Henri Coanda International Airport,LROP
+89,Bucharest Aurel Vlaicu Airport,LRBS
+90,Cluj-Napoca International Airport,LRCL
+91,Constanta International Airport,LRCK
+92,Craiova International Airport,LRCV
+93,Iasi International Airport,LRIA
+94,Oradea International Airport,LROD
+95,Satu Mare International Airport,LRSM
+96,Sibiu International Airport,LRSB
+97,Suceava International Airport,LRSV
+98,Targu Mures International Airport,LRTM
+99,Timisoara Traian Vuia International Airport,LRTR
+100,Dushanbe International Airport,UTDD
+101,Khudzhand Khujand Airport,UTDL
+102,Kulob Airport,UTDK
+103,Kurgan Tyube Qurghonteppa International Airport,UTDT
+104,Chernivtsi International Airport,UKLN
+105,Dnipro Dnipropetrovsk International Airport,UKDD
+106,Donetsk Sergey Prokofiev International Airport,UKCC
+107,Ivano-Frankivsk International Airport,UKLI
+108,Kharkiv International Airport,UKHH
+109,Kherson International Airport,UKOH
+110,Kryvyi Rih International Airport,UKDR
+111,Lviv Danylo Halytskyi International Airport,UKLL
+112,Mykolaiv International Airport,UKON
+113,Odesa International Airport,UKOO
+114,Poltava International  Airport,UKHP
+115,Simferopol International Airport,UKFF
+116,Uzhhorod International Airport,UKLU
+117,Zaporizhzhia International Airport,UKDE
+118,Zhytomyr Airport,UKKV
+119,Adiyaman Airport,LTCP
+120,Agri Airport,LTCO
+121,Ankara Esenboga International Airport,LTAC
+122,Antakya Hatay Airport,LTDA
+123,Antalya Airport,LTAI
+124,Batman Airport,LTCJ
+125,Bingol Airport,LTCU
+126,Bodrum Milas Airport,LTFE
+127,Bursa Yenisehir Airport,LTBR
+128,Canakkale Airport,LTBH
+129,Denizli Cardak Airport,LTAY
+130,Dalaman Airport,LTBS
+131,Diyarbakir Airport,LTCC
+132,Edremit Balikesir Koca Seyit Airport,LTFD
+133,Elazig Airport,LTCA
+134,Erzincan Airport,LTCD
+135,Erzurum Airport,LTCE
+136,Eskisehir Airport,LTBY
+137,Gaziantep Oguzeli Airport,LTAJ
+138,Gazipasa Airport,LTFG
+139,Igdir Airport,LTCT
+140,Isparta Suleyman Demirel Airport,LTFC
+141,Istanbul Airport,LTFM
+142,Istanbul Sabiha Gokcen International Airport,LTFJ
+143,Istanbul Ataturk Airport,LTBA
+144,Izmit Topel Airport,LTBQ
+145,Kahramanmaras Airport,LTCN
+146,Kars Harakani Airport,LTCF
+147,Kastamonu Airport,LTAL
+148,Kayseri Erkilet International Airport,LTAU
+149,Konya Airport,LTAN
+150,Kutahya Zafer Airport,LTBZ
+151,Malatya Erhac Airport,LTAT
+152,Mardin Airport,LTCR
+153,Merzifon Airport,LTAP
+154,Mus Airport,LTCK
+155,Nevsehir Kapadokya Airport,LTAZ
+156,Ordu Giresun Airport,LTCB
+157,Samsun Carsamba Airport,LTFH
+158,Sanliurfa GAP Airport,LTCS
+159,Siirt Airport,LTCL
+160,Sinop Airport,LTCM
+161,Sirnak Airport,LTCV
+162,Sivas Nuri Demirag Airport,LTAR
+163,Tekirdag Corlu Airport,LTBU
+164,Tokat Airport,LTAW
+165,Trabzon Airport,LTCG
+166,Ercan International Airport,LCEN
+167,Usak Airport,LTBO
+168,Van Airport,LTCI
+169,Yuksekova Hakkari Airport,LTCW
+170,Zonguldak Airport,LTAS
+171,Ashgabat International Airport,UTAA
+172,Dasoguz Airport,UTAT
+173,Kerki International Airport,UTAE
+174,Mary International Airport,UTAM
+175,Turkmenabat International Airport,UTAV
+176,Turkmenbashi International Airport,UTAK
+177,Angelholm Helsingborg Airport,ESTA
+178,Arvidsjaur Airport,ESNX
+179,Borlange Dala Airport,ESSD
+180,Eskilstuna Airport,ESSU
+181,Gallivare Lapland Airport,ESNG
+182,Gavle Airport,ESSK
+183,Gothenburg Landvetter Airport,ESGG
+184,Gothenburg City Airport,ESGP
+185,Hagfors Airport,ESOH
+186,Halmstad Airport,ESMT
+187,Hemavan Airport,ESUT
+188,Hultsfred Airport,ESSF
+189,Jonkoping Airport,ESGJ
+190,Kalmar Airport,ESMQ
+191,Karlskoga Airport,ESKK
+192,Karlstad Airport,ESOK
+193,Kiruna Airport,ESNQ
+194,Kramfors Hoga Kusten Airport,ESNK
+195,Kristianstad Osterlen Airport,ESMK
+196,Lidkoping Hovby Airport,ESGL
+197,Linkoping City Airport,ESSL
+198,Ljungbyhed Airport,ESTL
+199,Lulea Airport,ESPA
+200,Lycksele Airport,ESNL
+201,Malmo Airport,ESMS
+202,Mora Siljan Airport,ESKM
+203,Norrkoping Airport,ESSP
+204,Norrtalje Mellingeholms Airport,ESSN
+205,Orebro Airport,ESOE
+206,Ornskoldsvik Airport,ESNO
+207,Ostersund Are Airport,ESNZ
+208,Pajala Airport,ESUP
+209,Ronneby Airport,ESDF
+210,Salen Scandinavian Mountains Airport,ESKS
+211,Skelleftea Airport,ESNS
+212,Skovde Airport,ESGR
+213,Stockholm Skavsta Airport,ESKN
+214,Stockholm Bromma Airport,ESSB
+215,Stockholm Vasteras Hasslo Airport,ESOW
+216,Stockholm Arlanda Airport,ESSA
+217,Sundsvall Timra Airport,ESNN
+218,Sveg Harjedalen Airport,ESND
+219,Torsby Airport,ESST
+220,Trollhattan Vanersborg Airport,ESGT
+221,Umea Airport,ESNU
+222,Vastervik Airport,ESSW
+223,Vaxjo Smaland Airport,ESMX
+224,Vilhelmina Airport,ESNV
+225,Visby Airport,ESSV
+226,Bern Airport,LSZB
+227,Buochs Airport,LSZC
+228,Fribourg Ecuvillens Airport,LSGE
+229,Geneva International Airport,LSGG
+230,Grenchen Airport,LSZG
+231,La Chaux-de-Fonds Les Eplatures Airport,LSGC
+232,Lausanne Airport,LSGL
+233,Locarno Airport,LSZL
+234,Lugano Airport,LSZA
+235,Quinto Ambri Airport,LSPM
+236,Sion Airport,LSGS
+237,St. Gallen Altenrhein Airport,LSZR
+238,St. Moritz Samedan Airport,LSZS
+239,Zurich Airport,LSZH
+240,Al-Qamishli Airport,OSKL
+241,Aleppo International Airport,OSAP
+242,Damascus International Airport,OSDI
+243,Latakia Bassel al Assad International Airport,OSLK
+244,Biala Podlaska Airport,EPBP
+245,Czestochowa Rudniki Airport,EPRU
+246,Koszalin Zegrze Pomorskie Airport,EPKO
+247,Mielec Airport,EPML
+248,Olsztyn Mazury Airport,EPSY
+249,Radom Airport,EPRA
+250,Warsaw Babice Airport,EPBC
+251,Zielona Gora Babimost Airport,EPZG
+252,Monrovia Roberts International Airport,GLRB
+253,Alzintan Airport,HLZN
+254,Beida Al Abraq International Airport,HLLQ
+255,Benghazi Benina International Airport,HLLB
+256,Ghat Airport,HLGT
+257,Misrata International Airport,HLMS
+258,Sabha Airport,HLLS
+259,Tobruk Airport,HLGN
+260,Tripoli Mitiga International Airport,HLLM
+261,Tripoli International Airport,HLLT
+262,Zwara Airport,HLZW
+263,Kuressaare Airport,EEKE
+264,Budapest Ferenc Liszt International Airport,LHBP
+265,Debrecen International Airport,LHDC
+266,Fertoszentmiklos Meidl Airport,LHFM
+267,Gyor Per Airport,LHPR
+268,Nyiregyhaza Airport,LHNY
+269,Pecs Pogany Airport,LHPP
+270,Heviz Balaton Airport,LHSM
+271,Szeged Airport,LHUD
+272,Kukes International Airport,LAKU
+273,Tirana International Airport,LATI
+274,Adrar Airport,DAUA
+275,Algiers Houari Boumediene Airport,DAAG
+276,Annaba Rabah Bitat Airport,DABB
+277,Batna International Airport,DABT
+278,Bejaia Soummam Airport,DAAE
+279,Biskra Airport,DAUB
+280,Chlef International Airport,DAOI
+281,Constantine Mohamed Boudiaf International Airport,DABC
+282,Djanet Inedbirene Airport,DAAJ
+283,El Oued Guemar Airport,DAUO
+284,Ghardaia Noumerate Airport,DAUG
+285,Hassi Messaoud Oued Irara Airport,DAUH
+286,Illizi Takhamalt Airport,DAAP
+287,Jijel Ferhat Abbas Airport,DAAV
+288,Laghouat Airport,DAUL
+289,Oran Es Senia Airport,DAOO
+290,Ouargla Ain Beida Airport,DAUU
+291,Setif Ain Arnat Airport,DAAS
+292,Tamanrasset Aguenar Airport,DAAT
+293,Tindouf Airport,DAOF
+294,Tlemcen Zenata Airport,DAON
+295,Davis Plateau Skiway,AT07
+296,King George Island Teniente R. Marsh Airport,SCRM
+297,Neumayer III Skiway,AT16
+298,Novo Runway,AT17
+299,Princess Elisabeth Skiway,AT99
+300,SANAE IV Skiway,AT22
+301,Troll Airfield,ENOE
+302,Graz Airport,LOWG
+303,Hohenems Dornbirn Airport,LOIH
+304,Innsbruck Kranebitten Airport,LOWI
+305,Klagenfurt Airport,LOWK
+306,Linz Airport,LOWL
+307,Salzburg Airport,LOWS
+308,Vienna International Airport,LOWW
+309,Wiener Neustadt East Airport,LOAN
+310,Baku Heydar Aliyev International Airport,UBBB
+311,Fuzuli International Airport,UBBF
+312,Lankaran International Airport,UBBL
+313,Nakhchivan International Airport,UBBN
+314,Qabala International Airport,UBBQ
+315,Brest Airport,UMBB
+316,Gomel Airport,UMGG
+317,Grodno Hrodna Airport,UMMG
+318,Minsk International Airport,UMMS
+319,Mogilev Airport,UMOO
+320,Vitebsk Vostochny Airport,UMII
+321,Antwerp International Airport,EBAW
+322,Brussels Airport,EBBR
+323,Brussels South Charleroi Airport,EBCI
+324,Kortrijk Wevelgem International Airport,EBKT
+325,Liege Airport,EBLG
+326,Ostend Bruges International Airport,EBOS
+327,Chimore Airport,SLCH
+328,Cobija Capitan Anibal Arab Airport,SLCO
+329,Cochabamba Jorge Wilstermann International Airport,SLCB
+330,Guayaramerin Airport,SLGY
+331,La Paz El Alto International Airport,SLLP
+332,Oruro Juan Mendoza Airport,SLOR
+333,Riberalta Airport,SLRI
+334,Rurrenabaque Airport,SLRQ
+335,Santa Cruz El Trompillo Airport,SLET
+336,Santa Cruz Viru Viru International Airport,SLVR
+337,Sucre Alcantari International Airport,SLAL
+338,Tarija Airport,SLTJ
+339,Trinidad Teniente Jorge Henrich Arauz Airport,SLTR
+340,Uyuni Joya Andina Airport,SLUY
+341,Burgas Airport,LBBG
+342,Plovdiv Airport,LBPD
+343,Sofia Airport,LBSF
+344,Varna Airport,LBWN
